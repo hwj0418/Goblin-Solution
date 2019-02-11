@@ -1,0 +1,10 @@
+(Version 1)
+
+Note: Because our program technically doesn't have a unified screen for both professors and students, for now you will have to execute different files for the student and professor version of the program.
+
+
+
+Student: From the src folder, type python3 student_question_set.py in terminal to execute.
+
+Professor: From the src folder, type python3  question_type_select.py in terminal to execute
+.
